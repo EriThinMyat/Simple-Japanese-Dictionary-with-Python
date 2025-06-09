@@ -1,4 +1,4 @@
-# Japanese Dictionary
+# Japanese Dictionary with Python
 
 A command-line Japanese dictionary tool that allows you to search, save, and manage Japanese vocabulary with ease. Built in Python, this project helps learners store their favorite words and review their search history.
 
@@ -35,8 +35,13 @@ A command-line Japanese dictionary tool that allows you to search, save, and man
   - `save_history()`
   - `load_history()`
 
-### 🚀 Run the App
+---
 
-```bash
-python main.py
+## 🚀 How to Run
+
+1. **Clone the Repository**
+
+   ```bash
+   git clone https://github.com/EriThinMyat/Simple-Japanese-Dictionary-with-Python.git
+   cd Simple-Japanese-Dictionary-with-Python
 
